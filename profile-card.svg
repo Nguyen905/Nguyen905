@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 270" width="880" height="270" role="img" aria-label="Nguyen905: 125 contributions in the last year, 4 days in the longest streak, 0 stars across 1 public repository">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+    .word { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-weight: 800; fill: #1f2328; }
+    .line { font-size: 21px; fill: #1f2328; }
+    .bio { font-size: 18px; fill: #59636e; }
+    .lang { font-size: 14px; fill: #59636e; }
+  </style>
+  <rect x="0.5" y="16.5" width="570" height="237" fill="none" stroke="#8250df" stroke-width="1.5"/>
+  <text class="word" style="fill:#c9b3f2" x="32" y="115.8" font-size="95.19" textLength="514" lengthAdjust="spacingAndGlyphs">Nguyen905</text><text class="word" style="fill:#c9b3f2" x="31" y="115.2" font-size="95.19" textLength="514" lengthAdjust="spacingAndGlyphs">Nguyen905</text><text class="word" style="fill:#c9b3f2" x="30" y="114.6" font-size="95.19" textLength="514" lengthAdjust="spacingAndGlyphs">Nguyen905</text><text class="word" style="fill:#c9b3f2" x="29" y="114" font-size="95.19" textLength="514" lengthAdjust="spacingAndGlyphs">Nguyen905</text><text class="word" style="fill:#c9b3f2" x="28" y="113.4" font-size="95.19" textLength="514" lengthAdjust="spacingAndGlyphs">Nguyen905</text><text class="word" style="fill:#c9b3f2" x="27" y="112.8" font-size="95.19" textLength="514" lengthAdjust="spacingAndGlyphs">Nguyen905</text><text class="word" style="fill:#c9b3f2" x="26" y="112.2" font-size="95.19" textLength="514" lengthAdjust="spacingAndGlyphs">Nguyen905</text><text class="word" style="fill:#c9b3f2" x="25" y="111.6" font-size="95.19" textLength="514" lengthAdjust="spacingAndGlyphs">Nguyen905</text><text class="word" x="24" y="111" font-size="95.19" textLength="514" lengthAdjust="spacingAndGlyphs">Nguyen905</text>
+  
+  <text class="line" x="28" y="170">125 contributions in the last year</text>
+  <text class="line" x="28" y="200">4 days in the longest streak</text>
+  <text class="line" x="28" y="230">0 stars across 1 public repository</text>
+  <text class="lang" x="628" y="166">JavaScript</text><rect x="716" y="156" width="11" height="11" rx="2" fill="#216e39"/><rect x="731" y="156" width="11" height="11" rx="2" fill="#216e39"/><rect x="746" y="156" width="11" height="11" rx="2" fill="#216e39"/><rect x="761" y="156" width="11" height="11" rx="2" fill="#216e39"/><rect x="776" y="156" width="11" height="11" rx="2" fill="#216e39"/><rect x="791" y="156" width="11" height="11" rx="2" fill="#216e39"/><rect x="806" y="156" width="11" height="11" rx="2" fill="#216e39"/><rect x="821" y="156" width="11" height="11" rx="2" fill="#216e39"/><rect x="836" y="156" width="11" height="11" rx="2" fill="#216e39"/><rect x="851" y="156" width="11" height="11" rx="2" fill="#216e39"/>
+</svg>
